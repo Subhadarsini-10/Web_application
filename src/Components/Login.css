@@ -1,0 +1,12 @@
+.react-tel-input .form-control {
+  width: -webkit-fill-available !important;
+  height: 50px !important;
+}
+.react-tel-input .flag-dropdown {
+  background-color: white;
+}
+.signIn {
+  font-family: "Inter", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
